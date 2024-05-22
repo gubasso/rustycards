@@ -2,7 +2,7 @@
 
 <!-- toc -->
 
-- [ ] icp docs / tutorial
+- [ ] icp rust docs tutorial
 
 - https://crates.io/crates/crablit
 
