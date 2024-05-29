@@ -2,7 +2,12 @@
 
 <!-- toc -->
 
-- [ ] icp rust docs tutorial
+- [ ] [[icprustdocstutorial-issue]]
+
+- ??? [ICP Zero to Dapp - Powered by Encode Club - DFINITY](https://www.youtube.com/playlist?list=PLuhDt1vhGcrcRcHvSKmxIgJAh1b3rcR7N)
+
+
+## Drafts
 
 - https://crates.io/crates/crablit
 
@@ -17,11 +22,16 @@
   - notes and observations
   - list types of flashcards before implement... define which I will implement
 
-## Drafts
 
 - each user pays the rent for its own data
 
-- rustycards backend at solana
+## Roadmap
+
+- user login / dashboard
+
+## Specs
+
+- rustycards backend at icp
 - interfaces: web-app
 - data:
   - user info
@@ -34,7 +44,7 @@
     - if I own the deck: I pay nothing
   - % to the app developer
 
-## Pages
+### Pages
 
 - home: landing page
 - deck store
@@ -63,7 +73,7 @@
   - button: "Show answer"
   - shows de closed field
 
-## Elements
+### Elements
 
 - queue
   - formed by tasks
@@ -106,7 +116,7 @@
     - image occlusion
       - blocks peaces of an image
 
-## Improvements
+### Improvements
 
 - timer method helps go through all cards faster
 - timer
