@@ -2,9 +2,10 @@
 
 <!-- toc -->
 
-- [ ] [[icprustdocstutorial-issue]]
+- [ICP Zero to Dapp - Powered by Encode Club - DFINITY](https://www.youtube.com/playlist?list=PLuhDt1vhGcrcRcHvSKmxIgJAh1b3rcR7N)
+- [ICP Developer Journey Tutorial Series - DFINITY](https://www.youtube.com/playlist?list=PLuhDt1vhGcrdR2h6nPNylXKS4u8L-efvD)
 
-- ??? [ICP Zero to Dapp - Powered by Encode Club - DFINITY](https://www.youtube.com/playlist?list=PLuhDt1vhGcrcRcHvSKmxIgJAh1b3rcR7N)
+- [ ] [[icprustdocstutorial-issue]]
 
 
 ## Drafts
